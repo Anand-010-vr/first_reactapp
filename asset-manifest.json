@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/first_reactapp/static/css/main.0c011201.css",
+    "main.js": "/first_reactapp/static/js/main.bc19ebb5.js",
+    "static/js/453.ed3810f9.chunk.js": "/first_reactapp/static/js/453.ed3810f9.chunk.js",
+    "static/media/Logo_color_Charitable_page-0001.jpg": "/first_reactapp/static/media/Logo_color_Charitable_page-0001.ec1474a7677bebc5eefa.jpg",
+    "index.html": "/first_reactapp/index.html",
+    "main.0c011201.css.map": "/first_reactapp/static/css/main.0c011201.css.map",
+    "main.bc19ebb5.js.map": "/first_reactapp/static/js/main.bc19ebb5.js.map",
+    "453.ed3810f9.chunk.js.map": "/first_reactapp/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c011201.css",
+    "static/js/main.bc19ebb5.js"
+  ]
+}
