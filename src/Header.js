@@ -1,13 +1,20 @@
 import React from "react";
-import logo from "./Logo_color_Charitable_page-0001.jpg"; // Import the logo image
+import logo from "./Logo_color_Charitable_page-0001.jpg"; // Replace with the correct path
 
-function Header() {
+function Header({ handleTabChange }) {
   return (
-    <header>
-      <div className="header-content">
-        <img src={logo} alt="Lucia Charitable Logo" className="logo" />
-        <h1>Lucia Charitable</h1>
+    <header className="header">
+      <div className="logo-container">
+        <img src={logo} alt="Lucia Charitable" className="logo" />
       </div>
+      <nav className="nav">
+        <button onClick={() => handleTabChange("Home")} className="nav-button">
+          Home
+        </button>
+        <button onClick={() => handleTabChange("Contact Us")} className="nav-button">
+          Contact Us
+        </button>
+      </nav>
     </header>
   );
 }
