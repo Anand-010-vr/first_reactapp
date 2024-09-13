@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/first_reactapp/static/css/main.715cc7eb.css",
-    "main.js": "/first_reactapp/static/js/main.5dd9a6c2.js",
+    "main.css": "/first_reactapp/static/css/main.8fd852ad.css",
+    "main.js": "/first_reactapp/static/js/main.bd6f7212.js",
     "static/js/453.ed3810f9.chunk.js": "/first_reactapp/static/js/453.ed3810f9.chunk.js",
     "static/media/Logo_color_Charitable_page-0001.jpg": "/first_reactapp/static/media/Logo_color_Charitable_page-0001.ec1474a7677bebc5eefa.jpg",
     "index.html": "/first_reactapp/index.html",
-    "main.715cc7eb.css.map": "/first_reactapp/static/css/main.715cc7eb.css.map",
-    "main.5dd9a6c2.js.map": "/first_reactapp/static/js/main.5dd9a6c2.js.map",
+    "main.8fd852ad.css.map": "/first_reactapp/static/css/main.8fd852ad.css.map",
+    "main.bd6f7212.js.map": "/first_reactapp/static/js/main.bd6f7212.js.map",
     "453.ed3810f9.chunk.js.map": "/first_reactapp/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.715cc7eb.css",
-    "static/js/main.5dd9a6c2.js"
+    "static/css/main.8fd852ad.css",
+    "static/js/main.bd6f7212.js"
   ]
 }
